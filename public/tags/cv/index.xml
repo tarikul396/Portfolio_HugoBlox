@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CV | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/cv/</link>
+      <atom:link href="http://localhost:1313/tags/cv/index.xml" rel="self" type="application/rss+xml" />
+    <description>CV</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>CV</title>
+      <link>http://localhost:1313/tags/cv/</link>
+    </image>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;div style=&#34;display: flex; align-items: center;&#34;&gt;
+  &lt;img src=&#34;featured.jpg&#34; alt=&#34;Md. Tarikul Islam&#34; style=&#34;width: 200px; height: auto; margin-right: 20px;&#34;&gt;
+  &lt;div&gt;
+    &lt;h1&gt;Md. Tarikul Islam&lt;/h1&gt;
+    &lt;p&gt;&lt;em&gt;Front-End Engineer&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;Jahangirnagar University&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;!-- # MD. Tarikul Islam  
+*Front-End Engineer*  
+Jahangirnagar University   --&gt;
+&lt;!-- [Your Contact Information]  
+[Your LinkedIn or Portfolio URL] --&gt;
+&lt;h3 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;A dedicated and skilled Front-End Developer with a strong educational background and hands-on experience in building dynamic and user-friendly web applications. Proficient in HTML, CSS, JavaScript, and modern front-end frameworks. Passionate about delivering high-quality, efficient code to create seamless user experiences.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;education&#34;&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Jahangirnagar University&lt;/strong&gt;&lt;br&gt;
+Computer Science &amp;amp; Engineering [Running]&lt;br&gt;
+[Expected Graduation Year:2026]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rangpur Govt. College, Rangpur&lt;/strong&gt;&lt;br&gt;
+Higher Secondary Certificate (HSC) | GPA: 5.00&lt;br&gt;
+[Year of Completion : 2019]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GHSAC (Secondary School)&lt;/strong&gt;&lt;br&gt;
+Secondary School Certificate (SSC) | GPA: 5.00&lt;br&gt;
+[Year of Completion : 2017]&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;skills&#34;&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Languages &amp;amp; Frameworks:&lt;/strong&gt; HTML, CSS, JavaScript, React, Bootstrap&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Version Control:&lt;/strong&gt; Git, GitHub&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Responsive Web Design:&lt;/strong&gt; Mobile-first design, Flexbox, CSS Grid&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tools &amp;amp; Technologies:&lt;/strong&gt; Visual Studio Code, npm, Webpack, Babel, Chrome Developer Tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;projects&#34;&gt;&lt;strong&gt;Projects&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;FreeCodeCamp Projects&lt;/li&gt;
+&lt;li&gt;Calculator Projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;certifications&#34;&gt;&lt;strong&gt;Certifications&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[FreeCodeCamp Certification] – [Freecodecamp] – [2024]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;languages&#34;&gt;&lt;strong&gt;Languages&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bengali:&lt;/strong&gt; Native&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;English:&lt;/strong&gt; 80%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - **Bengali:** Native --&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;contact&#34;&gt;&lt;strong&gt;Contact&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: &lt;a href=&#34;mailto:mdtarikulislam2710@gmail.com&#34;&gt;mdtarikulislam2710@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Phone: 01567953766&lt;/li&gt;
+&lt;li&gt;LinkedIn: [[LinkedIn URL]](link add)&lt;/li&gt;
+&lt;li&gt;GitHub: [[GitHub URL](link add)]&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
