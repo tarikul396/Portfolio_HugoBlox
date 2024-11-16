@@ -6,8 +6,8 @@ title: Md. Tarikul Islam
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tarikul
+last_name: Islam
 
 # Status emoji
 status:
