@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact | Hugo Academic CV Theme</title>
-    <link>http://localhost:55000/tags/contact/</link>
-      <atom:link href="http://localhost:55000/tags/contact/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:55992/tags/contact/</link>
+      <atom:link href="http://localhost:55992/tags/contact/index.xml" rel="self" type="application/rss+xml" />
     <description>Contact</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55000/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:55992/media/icon_hu7729264130191091259.png</url>
       <title>Contact</title>
-      <link>http://localhost:55000/tags/contact/</link>
+      <link>http://localhost:55992/tags/contact/</link>
     </image>
     
     <item>
       <title>Take a coffee &amp; ping me</title>
-      <link>http://localhost:55000/contact/</link>
+      <link>http://localhost:55992/contact/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55000/contact/</guid>
+      <guid>http://localhost:55992/contact/</guid>
       <description>&lt;hr&gt;
 &lt;h3 id=&#34;contact&#34;&gt;&lt;strong&gt;Contact&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:mdtarikulislam2710@gmail.com&#34;&gt;mdtarikulislam2710@gmail.com&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 01567953766&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; [LinkedIn Profile](Link add)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; [GitHub Profile](Link add)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/md-tarikul-islam-433492339/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn Profile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/tarikul396&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Profile&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;!-- ### **Copyright &amp; Disclaimer**

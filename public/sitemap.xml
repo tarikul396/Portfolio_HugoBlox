@@ -2,145 +2,145 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:55000/event/example/</loc>
+    <loc>http://localhost:55992/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/event/</loc>
+    <loc>http://localhost:55992/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/projects/</loc>
+    <loc>http://localhost:55992/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/post/</loc>
+    <loc>http://localhost:55992/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/post/get-started/</loc>
+    <loc>http://localhost:55992/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/tags/academic/</loc>
+    <loc>http://localhost:55992/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/tags/hugo-blox/</loc>
+    <loc>http://localhost:55992/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/tags/markdown/</loc>
+    <loc>http://localhost:55992/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/tags/</loc>
+    <loc>http://localhost:55992/tags/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/tags/hugo/</loc>
+    <loc>http://localhost:55992/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/project/personalportfolio/</loc>
+    <loc>http://localhost:55992/project/personalportfolio/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/project/productlanding/</loc>
+    <loc>http://localhost:55992/project/productlanding/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/project/</loc>
+    <loc>http://localhost:55992/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/tags/second-brain/</loc>
+    <loc>http://localhost:55992/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/project/surveyform/</loc>
+    <loc>http://localhost:55992/project/surveyform/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/project/technicaldocumentation/</loc>
+    <loc>http://localhost:55992/project/technicaldocumentation/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/project/tictactoe/</loc>
+    <loc>http://localhost:55992/project/tictactoe/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/project/tributepage/</loc>
+    <loc>http://localhost:55992/project/tributepage/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/tags/wowchemy/</loc>
+    <loc>http://localhost:55992/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/post/second-brain/</loc>
+    <loc>http://localhost:55992/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/post/data-visualization/</loc>
+    <loc>http://localhost:55992/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/post/teach-courses/</loc>
+    <loc>http://localhost:55992/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/tags/contact/</loc>
+    <loc>http://localhost:55992/tags/contact/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/cv/</loc>
+    <loc>http://localhost:55992/cv/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/tags/cv/</loc>
+    <loc>http://localhost:55992/tags/cv/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/experience/</loc>
+    <loc>http://localhost:55992/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/tags/hugo-blox-builder/</loc>
+    <loc>http://localhost:55992/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/contact/</loc>
+    <loc>http://localhost:55992/contact/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/post/project-management/</loc>
+    <loc>http://localhost:55992/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/</loc>
+    <loc>http://localhost:55992/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/publication/</loc>
+    <loc>http://localhost:55992/publication/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/publication/conference-paper/</loc>
+    <loc>http://localhost:55992/publication/conference-paper/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/publication/journal-article/</loc>
+    <loc>http://localhost:55992/publication/journal-article/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/publication/preprint/</loc>
+    <loc>http://localhost:55992/publication/preprint/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/teaching/</loc>
+    <loc>http://localhost:55992/teaching/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/teaching/js/</loc>
+    <loc>http://localhost:55992/teaching/js/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:55000/publication_types/</loc>
+    <loc>http://localhost:55992/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

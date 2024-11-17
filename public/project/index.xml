@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Hugo Academic CV Theme</title>
-    <link>http://localhost:55000/project/</link>
-      <atom:link href="http://localhost:55000/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:55992/project/</link>
+      <atom:link href="http://localhost:55992/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55000/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:55992/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
-      <link>http://localhost:55000/project/</link>
+      <link>http://localhost:55992/project/</link>
     </image>
     
     <item>
       <title>Personal-Portfolio</title>
-      <link>http://localhost:55000/project/personalportfolio/</link>
+      <link>http://localhost:55992/project/personalportfolio/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55000/project/personalportfolio/</guid>
+      <guid>http://localhost:55992/project/personalportfolio/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ProductLanding</title>
-      <link>http://localhost:55000/project/productlanding/</link>
+      <link>http://localhost:55992/project/productlanding/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55000/project/productlanding/</guid>
+      <guid>http://localhost:55992/project/productlanding/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Survey-Form</title>
-      <link>http://localhost:55000/project/surveyform/</link>
+      <link>http://localhost:55992/project/surveyform/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55000/project/surveyform/</guid>
+      <guid>http://localhost:55992/project/surveyform/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Technical-Documentation</title>
-      <link>http://localhost:55000/project/technicaldocumentation/</link>
+      <link>http://localhost:55992/project/technicaldocumentation/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55000/project/technicaldocumentation/</guid>
+      <guid>http://localhost:55992/project/technicaldocumentation/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>TicTacToe</title>
-      <link>http://localhost:55000/project/tictactoe/</link>
+      <link>http://localhost:55992/project/tictactoe/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55000/project/tictactoe/</guid>
+      <guid>http://localhost:55992/project/tictactoe/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tribute-Page</title>
-      <link>http://localhost:55000/project/tributepage/</link>
+      <link>http://localhost:55992/project/tributepage/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55000/project/tributepage/</guid>
+      <guid>http://localhost:55992/project/tributepage/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     

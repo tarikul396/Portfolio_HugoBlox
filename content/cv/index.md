@@ -85,5 +85,5 @@ Secondary School Certificate (SSC) | GPA: 5.00
 
 - Email: mdtarikulislam2710@gmail.com
 - Phone: 01567953766
-- LinkedIn: [[LinkedIn URL]](link add)
-- GitHub: [[GitHub URL](link add)]
+- LinkedIn: [[LinkedIn URL](https://www.linkedin.com/in/md-tarikul-islam-433492339/)]
+- GitHub: [[GitHub URL](https://github.com/tarikul396)]
