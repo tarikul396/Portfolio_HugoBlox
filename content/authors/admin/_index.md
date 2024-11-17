@@ -35,13 +35,13 @@ profiles:
     url: 'mailto:your-mdtarikulislam2710@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/Tarikul_396
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/mti_396/?hl=en
   - icon: brands/github
     url: https://github.com/tarikul396
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/md-tarikul-islam-433492339/
   
 
 interests:

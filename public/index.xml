@@ -302,7 +302,7 @@
 
 
 
-&lt;div id=&#34;chart-963542718&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-342971856&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -320,7 +320,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-963542718&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-342971856&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -689,7 +689,7 @@ Secondary School Certificate (SSC) | GPA: 5.00&lt;br&gt;
     </item>
     
     <item>
-      <title>Stay with me</title>
+      <title>Take a coffee &amp; ping me</title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>

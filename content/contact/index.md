@@ -1,5 +1,5 @@
 ---
-title: Stay with me
+title: Take a coffee & ping me
 date: 2023-10-24
 type: docs
 math: false
