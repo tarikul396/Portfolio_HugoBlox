@@ -15,8 +15,8 @@ image:
 
 - **Email:** mdtarikulislam2710@gmail.com
 - **Phone:** 01567953766
-- **LinkedIn:** [LinkedIn Profile](Link add)
-- **GitHub:** [GitHub Profile](Link add)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/md-tarikul-islam-433492339/)
+- **GitHub:** [GitHub Profile](https://github.com/tarikul396)
 
 ---
 
