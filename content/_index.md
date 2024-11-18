@@ -20,7 +20,7 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: dark
-      background:
+      background: 
         color: black
         image:
           # Add your image background to `assets/media/`.
@@ -32,14 +32,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Strong Research means Stronger Innovation'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Strong research is the foundation of progress and discovery. It gives innovators the knowledge and insights needed to solve complex problems and create meaningful solutions. By exploring new possibilities and challenging existing ideas, research sparks creativity and inspires fresh concepts. Whether in science, technology, or business, solid research fuels innovation and leads to lasting change. The more thorough and visionary the research, the greater the potential for groundbreaking advancements. 😃
   #   design:
   #     columns: '1'
   # - block: collection

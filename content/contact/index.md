@@ -10,17 +10,17 @@ image:
 ---
 
 ---
+### **Contact Me** ###
+<div style="background: linear-gradient(to right, #624522, #e8562d); padding: 20px; border-radius: 8px; color: white;">
 
-### **Contact**
+  <p><strong>Email:</strong> <a href="mailto:mdtarikulislam2710@gmail.com" style="color: white; text-decoration: none;">mdtarikulislam2710@gmail.com </a></p>
+  <p><strong>Phone:</strong> 01567953766</p>
+  <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/md-tarikul-islam-433492339/" style="color: white; text-decoration: none;">LinkedIn Profile</a></p>
+  <p><strong>GitHub:</strong> <a href="https://github.com/tarikul396" style="color: white; text-decoration: none;">GitHub Profile</a></p>
 
-- **Email:** mdtarikulislam2710@gmail.com
-- **Phone:** 01567953766
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/md-tarikul-islam-433492339/)
-- **GitHub:** [GitHub Profile](https://github.com/tarikul396)
-
----
 
 <!-- ### **Copyright & Disclaimer**
 
 &copy; Md. Tarikul Islam. All rights reserved.
 --- -->
+</div>

@@ -172,7 +172,6 @@ awards:
   
   
 ---
-
 ## About Me
 
 I'm Tarikul Islam. I'm a dedicated student at Jahangirnagar University, currently pursuing a degree in Computer Science and Engineering. Passionate about technology and problem-solving, I'm actively working to deepen my knowledge in the field and enhance my skills for a successful career in the tech industry.

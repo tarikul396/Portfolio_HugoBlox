@@ -8,6 +8,8 @@ tags:
   - CV
 image:
    caption: 'Embed rich media such as videos and LaTeX math'
+
+
 ---
 
 <div style="display: flex; align-items: center;">
@@ -18,6 +20,7 @@ image:
     <p>Jahangirnagar University</p>
   </div>
 </div>
+<a href="resume.pdf" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; border-radius: 5px; font-size: 16px;">Download CV</a>
 
 ---
 
@@ -27,11 +30,11 @@ Jahangirnagar University   -->
 <!-- [Your Contact Information]  
 [Your LinkedIn or Portfolio URL] -->
 
-
+<div style="background: linear-gradient(to right, #5c700b, #1c9045); padding: 20px; border-radius: 8px; color: white;">
 
 ### **Summary**
 
-A dedicated and skilled Front-End Developer with a strong educational background and hands-on experience in building dynamic and user-friendly web applications. Proficient in HTML, CSS, JavaScript, and modern front-end frameworks. Passionate about delivering high-quality, efficient code to create seamless user experiences.
+A highly dedicated and proficient Front-End Developer with a strong educational background and extensive hands-on experience in crafting dynamic, intuitive, and visually appealing web applications. Expert in HTML, CSS, JavaScript, and modern front-end frameworks. Passionate about writing clean, efficient, and maintainable code to deliver seamless, user-centric experiences that engage and inspire. Committed to continuous learning and staying ahead of the latest industry trends to create innovative, high-performance web solutions.
 
 ---
 
@@ -76,14 +79,17 @@ Secondary School Certificate (SSC) | GPA: 5.00
 
 - **Bengali:** Native
 - **English:** 80%
-
+- **Hindi:** 80%
+- **Urdu:** 80%
 <!-- - **Bengali:** Native -->
 
 ---
 
 ### **Contact**
 
-- Email: mdtarikulislam2710@gmail.com
-- Phone: 01567953766
-- LinkedIn: [[LinkedIn URL](https://www.linkedin.com/in/md-tarikul-islam-433492339/)]
-- GitHub: [[GitHub URL](https://github.com/tarikul396)]
+<p><strong>Email:</strong> <a href="mailto:mdtarikulislam2710@gmail.com" style="color: white; text-decoration: none;">mdtarikulislam2710@gmail.com </a></p>
+  <p><strong>Phone:</strong> 01567953766</p>
+  <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/md-tarikul-islam-433492339/" style="color: white; text-decoration: none;">LinkedIn Profile</a></p>
+  <p><strong>GitHub:</strong> <a href="https://github.com/tarikul396" style="color: white; text-decoration: none;">GitHub Profile</a></p>
+
+</div>
