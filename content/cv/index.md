@@ -30,7 +30,7 @@ Jahangirnagar University   -->
 <!-- [Your Contact Information]  
 [Your LinkedIn or Portfolio URL] -->
 
-<div style="background: linear-gradient(to right, #5c700b, #1c9045); padding: 20px; border-radius: 8px; color: white;">
+<div style="background: linear-gradient(to right, #95b55e, #1a7a7fe1); padding: 20px; border-radius: 8px; color: white;">
 
 ### **Summary**
 

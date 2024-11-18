@@ -11,7 +11,7 @@ image:
 
 ---
 ### **Contact Me** ###
-<div style="background: linear-gradient(to right, #624522, #e8562d); padding: 20px; border-radius: 8px; color: white;">
+<div style="background: linear-gradient(to right, #1e8481d6, #955d4d); padding: 20px; border-radius: 8px; color: white;">
 
   <p><strong>Email:</strong> <a href="mailto:mdtarikulislam2710@gmail.com" style="color: white; text-decoration: none;">mdtarikulislam2710@gmail.com </a></p>
   <p><strong>Phone:</strong> 01567953766</p>

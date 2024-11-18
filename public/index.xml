@@ -88,7 +88,7 @@
 Jahangirnagar University   --&gt;
 &lt;!-- [Your Contact Information]  
 [Your LinkedIn or Portfolio URL] --&gt;
-&lt;div style=&#34;background: linear-gradient(to right, #5c700b, #1c9045); padding: 20px; border-radius: 8px; color: white;&#34;&gt;
+&lt;div style=&#34;background: linear-gradient(to right, #95b55e, #1a7a7fe1); padding: 20px; border-radius: 8px; color: white;&#34;&gt;
 &lt;h3 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;A highly dedicated and proficient Front-End Developer with a strong educational background and extensive hands-on experience in crafting dynamic, intuitive, and visually appealing web applications. Expert in HTML, CSS, JavaScript, and modern front-end frameworks. Passionate about writing clean, efficient, and maintainable code to deliver seamless, user-centric experiences that engage and inspire. Committed to continuous learning and staying ahead of the latest industry trends to create innovative, high-performance web solutions.&lt;/p&gt;
 &lt;hr&gt;
@@ -154,7 +154,7 @@ Secondary School Certificate (SSC) | GPA: 5.00&lt;br&gt;
       <guid>http://localhost:51535/contact/</guid>
       <description>&lt;hr&gt;
 &lt;h3 id=&#34;contact-me&#34;&gt;&lt;strong&gt;Contact Me&lt;/strong&gt;&lt;/h3&gt;
-&lt;div style=&#34;background: linear-gradient(to right, #624522, #e8562d); padding: 20px; border-radius: 8px; color: white;&#34;&gt;
+&lt;div style=&#34;background: linear-gradient(to right, #1e8481d6, #955d4d); padding: 20px; border-radius: 8px; color: white;&#34;&gt;
   &lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:mdtarikulislam2710@gmail.com&#34; style=&#34;color: white; text-decoration: none;&#34;&gt;mdtarikulislam2710@gmail.com &lt;/a&gt;&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 01567953766&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/md-tarikul-islam-433492339/&#34; style=&#34;color: white; text-decoration: none;&#34;&gt;LinkedIn Profile&lt;/a&gt;&lt;/p&gt;
@@ -296,7 +296,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-974135862&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-261874935&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -314,7 +314,7 @@ Demo:
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-974135862&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-261874935&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
