@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Academic CV Theme</title>
-    <link>http://localhost:51535/</link>
-      <atom:link href="http://localhost:51535/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Academic CV Theme</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:51535/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Hugo Academic CV Theme</title>
-      <link>http://localhost:51535/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:51535/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/projects/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal-Portfolio</title>
-      <link>http://localhost:51535/project/personalportfolio/</link>
+      <link>http://localhost:1313/project/personalportfolio/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/project/personalportfolio/</guid>
+      <guid>http://localhost:1313/project/personalportfolio/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ProductLanding</title>
-      <link>http://localhost:51535/project/productlanding/</link>
+      <link>http://localhost:1313/project/productlanding/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/project/productlanding/</guid>
+      <guid>http://localhost:1313/project/productlanding/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Survey-Form</title>
-      <link>http://localhost:51535/project/surveyform/</link>
+      <link>http://localhost:1313/project/surveyform/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/project/surveyform/</guid>
+      <guid>http://localhost:1313/project/surveyform/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Technical-Documentation</title>
-      <link>http://localhost:51535/project/technicaldocumentation/</link>
+      <link>http://localhost:1313/project/technicaldocumentation/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/project/technicaldocumentation/</guid>
+      <guid>http://localhost:1313/project/technicaldocumentation/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>TicTacToe</title>
-      <link>http://localhost:51535/project/tictactoe/</link>
+      <link>http://localhost:1313/project/tictactoe/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/project/tictactoe/</guid>
+      <guid>http://localhost:1313/project/tictactoe/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tribute-Page</title>
-      <link>http://localhost:51535/project/tributepage/</link>
+      <link>http://localhost:1313/project/tributepage/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/project/tributepage/</guid>
+      <guid>http://localhost:1313/project/tributepage/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Curriculum Vitae</title>
-      <link>http://localhost:51535/cv/</link>
+      <link>http://localhost:1313/cv/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/cv/</guid>
+      <guid>http://localhost:1313/cv/</guid>
       <description>&lt;div style=&#34;display: flex; align-items: center;&#34;&gt;
   &lt;img src=&#34;featured.jpg&#34; alt=&#34;Md. Tarikul Islam&#34; style=&#34;width: 200px; height: auto; margin-right: 20px;&#34;&gt;
   &lt;div&gt;
@@ -141,17 +141,17 @@ Secondary School Certificate (SSC) | GPA: 5.00&lt;br&gt;
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:51535/experience/</link>
+      <link>http://localhost:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/experience/</guid>
+      <guid>http://localhost:1313/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Take a coffee &amp; ping me</title>
-      <link>http://localhost:51535/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;hr&gt;
 &lt;h3 id=&#34;contact-me&#34;&gt;&lt;strong&gt;Contact Me&lt;/strong&gt;&lt;/h3&gt;
 &lt;div style=&#34;background: linear-gradient(to right, #1e8481d6, #955d4d); padding: 20px; border-radius: 8px; color: white;&#34;&gt;
@@ -159,18 +159,28 @@ Secondary School Certificate (SSC) | GPA: 5.00&lt;br&gt;
   &lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 01567953766&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/md-tarikul-islam-433492339/&#34; style=&#34;color: white; text-decoration: none;&#34;&gt;LinkedIn Profile&lt;/a&gt;&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/tarikul396&#34; style=&#34;color: white; text-decoration: none;&#34;&gt;GitHub Profile&lt;/a&gt;&lt;/p&gt;
+&lt;form action=&#34;&#34; method=&#34;POST&#34;&gt;
+  &lt;label for=&#34;name&#34;&gt;Your Name:&lt;/label&gt;
+  &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required&gt;
+&lt;p&gt;&lt;label for=&#34;email&#34;&gt;Your Email:&lt;/label&gt;
+&lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;_replyto&#34; required&gt;&lt;/p&gt;
+&lt;p&gt;&lt;label for=&#34;message&#34;&gt;Your Message:&lt;/label&gt;&lt;/p&gt;
+&lt;textarea id=&#34;message&#34; name=&#34;message&#34; required&gt;&lt;/textarea&gt;
+&lt;p class=&#34;button-area&#34;&gt;
+  &lt;span class=&#34;button&#34;&gt;Send Message&lt;/span&gt;
+&lt;/p&gt;
+&lt;/form&gt;
 &lt;!-- ### **Copyright &amp; Disclaimer**
-
-&amp;copy; Md. Tarikul Islam. All rights reserved.
---- --&gt;
+&lt;p&gt;© Md. Tarikul Islam. All rights reserved.
+&amp;mdash; &amp;ndash;&amp;gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:51535/event/example/</link>
+      <link>http://localhost:1313/event/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/event/example/</guid>
+      <guid>http://localhost:1313/event/example/</guid>
       <description>&lt;!-- ---
 title: Example Talk
 
@@ -263,9 +273,9 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     
     <item>
       <title></title>
-      <link>http://localhost:51535/post/data-visualization/</link>
+      <link>http://localhost:1313/post/data-visualization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/post/data-visualization/</guid>
+      <guid>http://localhost:1313/post/data-visualization/</guid>
       <description>&lt;!-- ---
 title: 📈 Communicate your results effectively with the best data visualizations
 summary: Use popular tools such as Plotly, Mermaid, and data frames.
@@ -296,7 +306,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-261874935&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-729836415&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -314,7 +324,7 @@ Demo:
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-261874935&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-729836415&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -498,9 +508,9 @@ Crash --&gt; [*]
     
     <item>
       <title></title>
-      <link>http://localhost:51535/post/get-started/</link>
+      <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/post/get-started/</guid>
+      <guid>http://localhost:1313/post/get-started/</guid>
       <description>&lt;!-- ---
 title: 🎉 Easily create your own simple yet highly customizable blog
 summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
@@ -601,9 +611,9 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
     
     <item>
       <title></title>
-      <link>http://localhost:51535/post/project-management/</link>
+      <link>http://localhost:1313/post/project-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/post/project-management/</guid>
+      <guid>http://localhost:1313/post/project-management/</guid>
       <description>&lt;!-- ---
 title: ✅ Manage your projects
 summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
@@ -703,9 +713,9 @@ renders as
     
     <item>
       <title></title>
-      <link>http://localhost:51535/post/second-brain/</link>
+      <link>http://localhost:1313/post/second-brain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/post/second-brain/</guid>
+      <guid>http://localhost:1313/post/second-brain/</guid>
       <description>&lt;!-- ---
 title: 🧠 Sharpen your thinking with a second brain
 summary: Create a personal knowledge base and share your knowledge with your peers.
@@ -875,9 +885,9 @@ Or use the `warning` callout type so your readers don&#39;t miss critical detail
     
     <item>
       <title></title>
-      <link>http://localhost:51535/post/teach-courses/</link>
+      <link>http://localhost:1313/post/teach-courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/post/teach-courses/</guid>
+      <guid>http://localhost:1313/post/teach-courses/</guid>
       <description>&lt;!-- ---
 title: 👩🏼‍🏫 Teach academic courses
 summary: Embed videos, podcasts, code, LaTeX math, and even test students!
@@ -959,7 +969,7 @@ Try it out:
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:51535/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 
@@ -1060,9 +1070,9 @@ renders as
     
     <item>
       <title></title>
-      <link>http://localhost:51535/publication/conference-paper/</link>
+      <link>http://localhost:1313/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/publication/conference-paper/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
       <description>&lt;!-- ---
 title: &#39;An example conference paper&#39;
 
@@ -1179,9 +1189,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title></title>
-      <link>http://localhost:51535/publication/journal-article/</link>
+      <link>http://localhost:1313/publication/journal-article/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/publication/journal-article/</guid>
+      <guid>http://localhost:1313/publication/journal-article/</guid>
       <description>&lt;!-- ---
 title: &#34;An example journal article&#34;
 authors:
@@ -1286,9 +1296,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title></title>
-      <link>http://localhost:51535/publication/preprint/</link>
+      <link>http://localhost:1313/publication/preprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/publication/preprint/</guid>
+      <guid>http://localhost:1313/publication/preprint/</guid>
       <description>&lt;!-- ---
 title: &#34;An example preprint / working paper&#34;
 authors:
@@ -1377,9 +1387,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title></title>
-      <link>http://localhost:51535/teaching/js/</link>
+      <link>http://localhost:1313/teaching/js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51535/teaching/js/</guid>
+      <guid>http://localhost:1313/teaching/js/</guid>
       <description>&lt;!-- ---
 title: Learn JavaScript
 summary: Easily learn JavaScript in 10 minutes!
